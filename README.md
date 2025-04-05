@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rushikesh Shinde
 
-🚀 **Software Developer | Full Stack Engineer | Frontend Developer**  
+🚀 **Software Developer | Full Stack Engineer | Frontend Developer  | DevOps Engineer**  
 🎓 B.E in Electronics & Telecom Engineering | Zeal College of Engineering, Pune  
 📍 Mumbai, India  
 📧 [rushikeshshinde57323@gmail.com](mailto:rushikeshshinde57323@gmail.com)  
