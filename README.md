@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Rushikesh Shinde — full stack developer, mobile developer, cloud and DevOps. Mumbai, India. Currently building at AMSUN Universe LLP." />
+  <img src="./assets/header.svg" width="100%" alt="Rushikesh Shinde — full stack developer, mobile developer, cloud and DevOps. Mumbai, India." />
 </p>
 
 <p align="center">
@@ -57,15 +57,7 @@ B.E. in Electronics & Telecommunication from Zeal College of Engineering, Pune U
 
 <br />
 
-### `02` &nbsp;journey
-
-<p align="center">
-  <img src="./assets/journey.svg" width="100%" alt="ISparx Infotech, Software Developer Full Stack, Jul 2024 to Aug 2025. Vunya Infotech, Software Development Consultant, Aug 2025 to Mar 2026. AMSUN Universe LLP, Software Developer, Mar 2026 to present." />
-</p>
-
-<br />
-
-### `03` &nbsp;stack
+### `02` &nbsp;stack
 
 <table>
   <tr>
@@ -140,7 +132,7 @@ B.E. in Electronics & Telecommunication from Zeal College of Engineering, Pune U
 
 <br />
 
-### `04` &nbsp;github
+### `03` &nbsp;github
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=RushikeshShind&show_icons=true&hide_border=false&bg_color=15130f&title_color=f4a261&text_color=f7f1e7&icon_color=f4a261&border_color=3a342c" alt="GitHub stats" />
@@ -149,7 +141,7 @@ B.E. in Electronics & Telecommunication from Zeal College of Engineering, Pune U
 
 <br />
 
-### `05` &nbsp;certifications
+### `04` &nbsp;certifications
 
 - Java Microservices with Spring Boot and Spring Cloud — Google, 2023
 - Foundations of Project Management — Google, 2022

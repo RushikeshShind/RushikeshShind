@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 340" width="100%" role="img" aria-labelledby="t d">
   <title id="t">Rushikesh Shinde</title>
-  <desc id="d">Full stack developer, mobile developer, cloud and DevOps. Based in Mumbai, currently building at AMSUN Universe LLP.</desc>
+  <desc id="d">Full stack developer, mobile developer, cloud and DevOps. Based in Mumbai.</desc>
   <defs>
     <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1.1" fill="#3a342c"/>
@@ -67,7 +67,7 @@
 
     <!-- top bar -->
     <circle class="live" cx="50" cy="46" r="4" fill="#f4a261"/>
-    <text class="mono small" x="64" y="50" fill="#bdb3a4">CURRENTLY BUILDING @ AMSUN UNIVERSE LLP</text>
+    <text class="mono small" x="64" y="50" fill="#bdb3a4">SOFTWARE DEVELOPER · 2+ YEARS SHIPPING</text>
     <text class="mono small" x="790" y="50" fill="#6f685e" text-anchor="end">MUMBAI, IN</text>
 
     <!-- wordmark -->
