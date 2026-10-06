@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 340" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">Rushikesh Shinde</title>
+  <desc id="d">Full stack developer, mobile developer, cloud and DevOps. Based in Mumbai, currently building at AMSUN Universe LLP.</desc>
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#3a342c"/>
+    </pattern>
+    <radialGradient id="fade" cx="82%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="dotmask"><rect width="840" height="340" fill="url(#fade)"/></mask>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#f4a261" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#f4a261" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect width="840" height="340" rx="22"/></clipPath>
+  </defs>
+  <style>
+    .sans { font-family: "Plus Jakarta Sans", Inter, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .name { font-size: 86px; font-weight: 800; letter-spacing: -4px; }
+    .small { font-size: 12px; letter-spacing: 1.5px; }
+    .role { font-size: 19px; font-weight: 600; opacity: 0; }
+    .r1 { opacity: 1; }
+    @keyframes rise { from { opacity: 0; transform: translateY(18px); } }
+    @keyframes draw { from { stroke-dashoffset: 300; } }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+    @keyframes cycle { 0%, 3% { opacity: 0; transform: translateY(8px); } 7%, 30% { opacity: 1; transform: translateY(0); } 34%, 100% { opacity: 0; transform: translateY(-8px); } }
+    .n1 { animation: rise .9s cubic-bezier(.2,.7,.2,1) both; }
+    .n2 { animation: rise .9s cubic-bezier(.2,.7,.2,1) .15s both; }
+    .line { stroke-dasharray: 300; animation: draw 1.4s ease-out .5s both; }
+    .live { animation: pulse 1.8s ease-in-out infinite; }
+    .r1 { animation: cycle 9s ease-in-out infinite; }
+    .r2 { animation: cycle 9s ease-in-out 3s infinite; }
+    .r3 { animation: cycle 9s ease-in-out 6s infinite; }
+    @media (prefers-reduced-motion: reduce) {
+      .n1, .n2, .line, .live, .r1, .r2, .r3 { animation: none; }
+      .r2, .r3 { opacity: 0; }
+    }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="840" height="340" fill="#15130f"/>
+    <rect width="840" height="340" fill="url(#dots)" mask="url(#dotmask)"/>
+    <circle cx="672" cy="178" r="170" fill="url(#glow)"/>
+
+    <!-- orbit: web / mobile / cloud -->
+    <g fill="none" stroke="#3a342c" stroke-width="1">
+      <circle cx="672" cy="178" r="46"/>
+      <circle cx="672" cy="178" r="80" stroke-dasharray="2 7"/>
+      <circle cx="672" cy="178" r="114"/>
+    </g>
+    <circle cx="672" cy="178" r="7" fill="#f4a261"/>
+    <g>
+      <circle cx="718" cy="178" r="5" fill="#f7f1e7"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 672 178" to="360 672 178" dur="9s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="672" cy="98" r="4" fill="#f4a261"/>
+      <animateTransform attributeName="transform" type="rotate" from="360 672 178" to="0 672 178" dur="16s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="558" cy="178" r="6" fill="none" stroke="#f4a261" stroke-width="2"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 672 178" to="360 672 178" dur="26s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- top bar -->
+    <circle class="live" cx="50" cy="46" r="4" fill="#f4a261"/>
+    <text class="mono small" x="64" y="50" fill="#bdb3a4">CURRENTLY BUILDING @ AMSUN UNIVERSE LLP</text>
+    <text class="mono small" x="790" y="50" fill="#6f685e" text-anchor="end">MUMBAI, IN</text>
+
+    <!-- wordmark -->
+    <text class="sans name n1" x="42" y="160" fill="#f7f1e7">rushikesh</text>
+    <text class="sans name n2" x="44" y="240" style="letter-spacing:1px" fill="none" stroke="#f4a261" stroke-width="1.6">shinde.</text>
+
+    <!-- role -->
+    <path class="line" d="M46 276 H346" stroke="#f4a261" stroke-width="2" stroke-linecap="round"/>
+    <text class="mono" x="46" y="308" fill="#f4a261" font-size="19">→</text>
+    <text class="sans role r1" x="74" y="308" fill="#f7f1e7">full stack developer</text>
+    <text class="sans role r2" x="74" y="308" fill="#f7f1e7">mobile developer</text>
+    <text class="sans role r3" x="74" y="308" fill="#f7f1e7">cloud &amp; devops</text>
+
+    <text class="mono small" x="790" y="308" fill="#6f685e" text-anchor="end">WEB · MOBILE · CLOUD</text>
+  </g>
+  <rect x=".5" y=".5" width="839" height="339" rx="22" fill="none" stroke="#3a342c"/>
+</svg>

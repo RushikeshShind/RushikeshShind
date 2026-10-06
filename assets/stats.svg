@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 132" width="100%" role="img" aria-labelledby="t d">
+  <title id="t">Numbers</title>
+  <desc id="d">20+ end-to-end projects, 2+ years of experience, 2,000+ app downloads, 1,400+ active web customers.</desc>
+  <style>
+    .sans { font-family: "Plus Jakarta Sans", Inter, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .num { font-size: 40px; font-weight: 800; letter-spacing: -2px; fill: #f7f1e7; }
+    .plus { fill: #f4a261; }
+    .lbl { font-size: 11px; letter-spacing: 1.4px; fill: #bdb3a4; }
+    .idx { font-size: 11px; fill: #6f685e; }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px); } }
+    .c1 { animation: rise .7s ease-out both; }
+    .c2 { animation: rise .7s ease-out .12s both; }
+    .c3 { animation: rise .7s ease-out .24s both; }
+    .c4 { animation: rise .7s ease-out .36s both; }
+    @media (prefers-reduced-motion: reduce) { .c1, .c2, .c3, .c4 { animation: none; } }
+  </style>
+  <rect x=".5" y=".5" width="839" height="131" rx="18" fill="#15130f" stroke="#3a342c"/>
+  <g stroke="#3a342c">
+    <path d="M210 24 V108"/><path d="M420 24 V108"/><path d="M630 24 V108"/>
+  </g>
+
+  <g class="c1">
+    <text class="mono idx" x="32" y="36">01</text>
+    <text class="sans num" x="32" y="84">20<tspan class="plus">+</tspan></text>
+    <text class="mono lbl" x="32" y="108">END-TO-END PROJECTS</text>
+  </g>
+  <g class="c2">
+    <text class="mono idx" x="242" y="36">02</text>
+    <text class="sans num" x="242" y="84">2<tspan class="plus">+</tspan></text>
+    <text class="mono lbl" x="242" y="108">YEARS EXPERIENCE</text>
+  </g>
+  <g class="c3">
+    <text class="mono idx" x="452" y="36">03</text>
+    <text class="sans num" x="452" y="84">2,000<tspan class="plus">+</tspan></text>
+    <text class="mono lbl" x="452" y="108">APP DOWNLOADS</text>
+  </g>
+  <g class="c4">
+    <text class="mono idx" x="662" y="36">04</text>
+    <text class="sans num" x="662" y="84">1,400<tspan class="plus">+</tspan></text>
+    <text class="mono lbl" x="662" y="108">WEB CUSTOMERS</text>
+  </g>
+</svg>
