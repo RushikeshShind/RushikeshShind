@@ -1,133 +1,162 @@
-# 👋 Hello, I'm Rushikesh Shinde
-
-🚀 **Full Stack Developer | Mobile Developer | Cloud & DevOps**  
-💼 Software Developer @ AMSUN Universe LLP  
-🎓 B.E. in Electronics & Telecommunication | Zeal College of Engineering, Pune University (2020 – 2024)  
-📍 Mumbai, Maharashtra, India  
-📧 [rushikeshshinde57323@gmail.com](mailto:rushikeshshinde57323@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/rushikeshshinde57323/) • [GitHub](https://github.com/RushikeshShind) • [Portfolio](https://github.com/RushikeshShind/rushikesh-portfolio)
-
----
-
-## 🙋‍♂️ About Me
-
-Full stack developer with 2+ years of experience shipping web, Android and iOS products end to end — from requirements and UI/UX to frontend, backend, database and AWS deployment, often as a one-person engineering team.
-
-- 📦 20+ end-to-end projects, 4+ production deployments
-- 📱 2,000+ downloads on Google Play for Number Aacharya
-- 🌐 1,400+ active customers on its companion web portal
-
----
-
-## 🚀 Tech Stack & Skills
-
-### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 💻 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### 🔧 Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS%20EC2%20%7C%20S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux%20Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🛠️ Tools & IDEs
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
----
-
-## 💼 Experience
-
-**Software Developer — AMSUN Universe LLP** · Mar 2026 – Present · Remote, Mumbai
-- Architected and delivered a College ERP System (Next.js, Java, MySQL, AWS EC2) covering admissions, fees, attendance, inquiries, calling and results.
-- Built a rule-based Fee Payment Prediction feature and automated reminders for the accounts team.
-- Built and launched Number Aacharya (Flutter + Java) on Google Play with 2,000+ downloads, plus a web portal serving 1,400+ active customers.
-
-**Software Development Consultant — Vunya Infotech Pvt. Ltd.** · Aug 2025 – Mar 2026 · Remote
-- Designed and built web and mobile applications with Angular and React, integrating REST APIs and deploying to cloud platforms.
-- Managed client communication and requirements in an Agile environment.
-
-**Software Developer (Full Stack) — ISparx Infotech** · Jul 2024 – Aug 2025 · Mumbai
-- Delivered 5+ web applications using Angular, Next.js and Node.js.
-- Deployed 4+ production projects on AWS, Vercel and Render; improved server performance by 15% with Docker.
-- Designed the ONSSPRO UI in Angular and Figma, reducing user navigation time by 30%.
-
----
-
-## 🏗️ Projects
-
-- 🎓 **College ERP System** – Next.js + Java + MySQL + AWS EC2  
-  End-to-end ERP for admissions, fees, attendance, inquiries, calling and results, with fee payment prediction, automated reminders and a result insight generator.
-- 🔢 **Number Aacharya** – Flutter + Java + Web  
-  Numerology and analytics platform with a mobile app and companion web portal. 2,000+ Google Play downloads, 1,400+ active web customers.
-- 🌐 **Sowilosoul.com** – Next.js + Vercel  
-  Performance-optimized web application serving 1,000+ users.
-- 📱 **Shiksha Foundation App** – Angular + Express.js + MySQL + Capacitor  
-  Hybrid Android and iOS app with 500+ downloads.
-- 🎮 **Portfolio Website** – Next.js + TypeScript + GSAP  
-  Personal portfolio with built-in mini games (Sudoku, Tic-Tac-Toe, Dots and Boxes). [Source](https://github.com/RushikeshShind/rushikesh-portfolio)
-
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RushikeshShind&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RushikeshShind&theme=radical" alt="GitHub Streak" />
+  <img src="./assets/header.svg" width="100%" alt="Rushikesh Shinde — full stack developer, mobile developer, cloud and DevOps. Mumbai, India. Currently building at AMSUN Universe LLP." />
 </p>
 
----
+<p align="center">
+  <a href="mailto:rushikeshshinde57323@gmail.com"><img src="https://img.shields.io/badge/email-15130f?style=for-the-badge&logo=gmail&logoColor=f4a261" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/rushikeshshinde57323/"><img src="https://img.shields.io/badge/linkedin-15130f?style=for-the-badge&logo=linkedin&logoColor=f4a261" alt="LinkedIn" /></a>
+  <a href="https://github.com/RushikeshShind/rushikesh-portfolio"><img src="https://img.shields.io/badge/portfolio-15130f?style=for-the-badge&logo=nextdotjs&logoColor=f4a261" alt="Portfolio" /></a>
+</p>
 
-## 🏅 Certifications
+<br />
 
-- Java Microservices with Spring Boot and Spring Cloud – Google (2023)
-- Foundations of Project Management – Google (2022)
-- CSS Certification – HackerRank (2022)
+### `00` &nbsp;about
 
----
+I build products end to end: requirements, UI/UX, frontend, backend, database and the AWS box it runs on. Most of my recent work has shipped as a one-person engineering team across web, Android and iOS.
 
-## 🤝 Let's Connect
+B.E. in Electronics & Telecommunication from Zeal College of Engineering, Pune University (2020 – 2024).
 
-📬 [rushikeshshinde57323@gmail.com](mailto:rushikeshshinde57323@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/rushikeshshinde57323/)  
-🐙 [GitHub](https://github.com/RushikeshShind)
+<p align="center">
+  <img src="./assets/stats.svg" width="100%" alt="20+ end-to-end projects, 2+ years of experience, 2,000+ app downloads, 1,400+ active web customers." />
+</p>
 
----
+<br />
 
-> 🔥 *"Keep building. Keep learning. Keep growing."*
+### `01` &nbsp;work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><code>01</code></sub>
+      <h4>College ERP System</h4>
+      <p>ERP for a college covering admissions, fees, attendance, inquiries, calling and results. Includes fee payment prediction, automated reminders and a result insight generator.</p>
+      <sub><b>Next.js · Java · MySQL · AWS EC2</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub><code>02</code></sub>
+      <h4>Number Aacharya</h4>
+      <p>Numerology and analytics platform: a Flutter app on Google Play with 2,000+ downloads and a web portal serving 1,400+ active customers. Built solo.</p>
+      <sub><b>Flutter · Java · Web</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><code>03</code></sub>
+      <h4>Sowilosoul.com</h4>
+      <p>Performance-optimized Next.js web application on Vercel, serving 1,000+ users.</p>
+      <sub><b>Next.js · Vercel</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub><code>04</code></sub>
+      <h4>Shiksha Foundation App</h4>
+      <p>Hybrid mobile app for Android and iOS with 500+ downloads.</p>
+      <sub><b>Angular · Express.js · MySQL · Capacitor</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### `02` &nbsp;journey
+
+<p align="center">
+  <img src="./assets/journey.svg" width="100%" alt="ISparx Infotech, Software Developer Full Stack, Jul 2024 to Aug 2025. Vunya Infotech, Software Development Consultant, Aug 2025 to Mar 2026. AMSUN Universe LLP, Software Developer, Mar 2026 to present." />
+</p>
+
+<br />
+
+### `03` &nbsp;stack
+
+<table>
+  <tr>
+    <td><sub><b>LANGUAGES</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-15130f?style=flat-square&logo=openjdk&logoColor=f4a261" alt="Java" />
+      <img src="https://img.shields.io/badge/JavaScript-15130f?style=flat-square&logo=javascript&logoColor=f4a261" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-15130f?style=flat-square&logo=typescript&logoColor=f4a261" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Dart-15130f?style=flat-square&logo=dart&logoColor=f4a261" alt="Dart" />
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>FRONTEND</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Angular-15130f?style=flat-square&logo=angular&logoColor=f4a261" alt="Angular" />
+      <img src="https://img.shields.io/badge/React-15130f?style=flat-square&logo=react&logoColor=f4a261" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-15130f?style=flat-square&logo=nextdotjs&logoColor=f4a261" alt="Next.js" />
+      <img src="https://img.shields.io/badge/HTML-15130f?style=flat-square&logo=html5&logoColor=f4a261" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-15130f?style=flat-square&logo=css3&logoColor=f4a261" alt="CSS" />
+      <img src="https://img.shields.io/badge/SwiftUI-15130f?style=flat-square&logo=swift&logoColor=f4a261" alt="SwiftUI" />
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>MOBILE</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-15130f?style=flat-square&logo=flutter&logoColor=f4a261" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Capacitor-15130f?style=flat-square&logo=capacitor&logoColor=f4a261" alt="Capacitor" />
+      <img src="https://img.shields.io/badge/Ionic-15130f?style=flat-square&logo=ionic&logoColor=f4a261" alt="Ionic" />
+      <img src="https://img.shields.io/badge/Android%20Studio-15130f?style=flat-square&logo=androidstudio&logoColor=f4a261" alt="Android Studio" />
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>BACKEND</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring%20Boot-15130f?style=flat-square&logo=springboot&logoColor=f4a261" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Node.js-15130f?style=flat-square&logo=nodedotjs&logoColor=f4a261" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-15130f?style=flat-square&logo=express&logoColor=f4a261" alt="Express.js" />
+      <img src="https://img.shields.io/badge/REST%20API-15130f?style=flat-square&logo=postman&logoColor=f4a261" alt="REST API" />
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>DATABASES</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-15130f?style=flat-square&logo=mysql&logoColor=f4a261" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-15130f?style=flat-square&logo=mongodb&logoColor=f4a261" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/PostgreSQL-15130f?style=flat-square&logo=postgresql&logoColor=f4a261" alt="PostgreSQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>CLOUD&nbsp;&amp;&nbsp;DEVOPS</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS%20EC2%20·%20S3-15130f?style=flat-square&logo=amazonwebservices&logoColor=f4a261" alt="AWS EC2 and S3" />
+      <img src="https://img.shields.io/badge/Docker-15130f?style=flat-square&logo=docker&logoColor=f4a261" alt="Docker" />
+      <img src="https://img.shields.io/badge/Vercel-15130f?style=flat-square&logo=vercel&logoColor=f4a261" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Render-15130f?style=flat-square&logo=render&logoColor=f4a261" alt="Render" />
+      <img src="https://img.shields.io/badge/Linux-15130f?style=flat-square&logo=linux&logoColor=f4a261" alt="Linux" />
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>TOOLS</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-15130f?style=flat-square&logo=git&logoColor=f4a261" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-15130f?style=flat-square&logo=github&logoColor=f4a261" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitLab-15130f?style=flat-square&logo=gitlab&logoColor=f4a261" alt="GitLab" />
+      <img src="https://img.shields.io/badge/Postman-15130f?style=flat-square&logo=postman&logoColor=f4a261" alt="Postman" />
+      <img src="https://img.shields.io/badge/Figma-15130f?style=flat-square&logo=figma&logoColor=f4a261" alt="Figma" />
+      <img src="https://img.shields.io/badge/VS%20Code-15130f?style=flat-square&logoColor=f4a261" alt="VS Code" />
+      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-15130f?style=flat-square&logo=intellijidea&logoColor=f4a261" alt="IntelliJ IDEA" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### `04` &nbsp;github
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RushikeshShind&show_icons=true&hide_border=false&bg_color=15130f&title_color=f4a261&text_color=f7f1e7&icon_color=f4a261&border_color=3a342c" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=RushikeshShind&background=15130f&border=3a342c&stroke=3a342c&ring=f4a261&fire=f4a261&currStreakNum=f7f1e7&sideNums=f7f1e7&currStreakLabel=f4a261&sideLabels=bdb3a4&dates=6f685e" alt="GitHub streak" />
+</p>
+
+<br />
+
+### `05` &nbsp;certifications
+
+- Java Microservices with Spring Boot and Spring Cloud — Google, 2023
+- Foundations of Project Management — Google, 2022
+- CSS Certification — HackerRank, 2022
+
+<br />
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Keep building. Keep learning. Keep growing." />
+</p>
